@@ -1,0 +1,45 @@
+commit ff914ca034d62db5e4e429ecd63bd1dadae0206d
+Merge: a71d53e a7bbc2c
+Author: aRehmank <arehman3@calstatela.edu>
+Date:   Thu Sep 10 23:15:09 2026 -0700
+
+    Resolve merge conflict
+
+commit a7bbc2ca11481be4ca9cb73796db575cf13edecc
+Author: aRehmank <arehman3@calstatela.edu>
+Date:   Thu Sep 10 23:08:08 2026 -0700
+
+    Add favorite game
+
+commit a71d53e981ff778909978318c05e2abb86105037
+Author: aRehmank <arehman3@calstatela.edu>
+Date:   Thu Sep 10 23:03:17 2026 -0700
+
+    Add favorite food
+
+commit 554f66c90bbea5a074d84d213fb123203038c3a9
+Author: aRehmank <arehman3@calstatela.edu>
+Date:   Thu Sep 10 22:56:34 2026 -0700
+
+    Add README
+
+commit ca540df39f9f4c50caa6051726b20fccc7b94568
+Merge: 1d2bfc0 05e9500
+Author: arehmank3 <arehman3@calstatela.edu>
+Date:   Thu Sep 10 22:43:44 2026 -0700
+
+    Merge pull request #1 from arehmank3/info-fill
+    
+    Fill in personal information
+
+commit 05e9500160d3f7f0ed964a4fc9d4bdc118d7836d
+Author: aRehmank <arehman3@calstatela.edu>
+Date:   Thu Sep 10 22:25:39 2026 -0700
+
+    Fill in personal information
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
